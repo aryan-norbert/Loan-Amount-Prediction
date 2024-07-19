@@ -46,21 +46,20 @@ This app predicts how much of a loan will be granted to an applicant. The app us
 
 Correlation between the features.
 
-![heatmap](assets/heatmap.png)
+![heatmap](https://github.com/aryan-norbert/Loan-Amount-Prediction/blob/main/heatmap.png)
 
 RMSE of random forest with the best hyperparameters.
 
-![RMSE](assets/rmse.png)
-
+![RMSE](https://github.com/aryan-norbert/Loan-Amount-Prediction/blob/main/rmse.png)
 We have an RMSE on a range between 0 and 400000
 
 Top features of random forest with the best hyperparameters.
 
-![Top 10](assets/top10.png)
+![Top 10](https://github.com/aryan-norbert/Loan-Amount-Prediction/blob/main/top10.png)
 
 Least useful features of random forest with the best hyperparameters.
 
-![Bottom 10](assets/bottom10.png)
+![Bottom 10](https://github.com/aryan-norbert/Loan-Amount-Prediction/blob/main/bottom10.png)
 
 Top 3 models (with default parameters)
 
@@ -79,11 +78,11 @@ Comparing the RMSE while tuning the parameters, random forest produced the lowes
 
     RMSE random forest
 
-    ![RMSE random forest](assets/rmse_rand_forest.png)
+    ![RMSE random forest](https://github.com/aryan-norbert/Loan-Amount-Prediction/blob/main/rmse_rand_forest.png)
 
     RMSE bagging
 
-    ![RMSE bagging](assets/rmse_bagging.png)
+    ![RMSE bagging](https://github.com/aryan-norbert/Loan-Amount-Prediction/blob/main/rmse_bagging.png)
 
 
 
@@ -186,9 +185,6 @@ Video to gif [tool](https://ezgif.com/)
 │
 │
 ├── .gitignore                                    <- used to ignore certain folder and files that won't be commit to git.
-│
-│
-├── LICENSE                                       <- license file.
 │
 │
 ├── Loan_amount_prediction.ipynb                  <- main python notebook where all the analysis and modeling are done.
