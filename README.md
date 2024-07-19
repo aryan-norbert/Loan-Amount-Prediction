@@ -1,24 +1,5 @@
-
-![banner](assets/loan_amount_banner.png)
-
-
-![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
-![GitHub last commit](https://img.shields.io/github/last-commit/semasuka/Loan-amount-prediction-regression)
-![GitHub repo size](https://img.shields.io/github/repo-size/semasuka/Loan-amount-prediction-regression)
-![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Regression-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yejfDKFm8zRZ6swoEP-ibgx8ZOQe5vNl)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/semasuka/loan-amount-prediction-regression/main/loan_amount_app.py)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-Badge [source](https://shields.io/)
-
 # Key findings: People with the highest credit score, and have a co-applicant, are more likely to receive a large loan amount.
 
-
-## Authors
-
-- [@semasuka](https://www.github.com/semasuka)
 
 ## Table of Contents
 
@@ -226,28 +207,4 @@ Video to gif [tool](https://ezgif.com/)
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
 
-## License
 
-MIT License
-
-Copyright (c) 2022 Stern Semasuka
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-Learn more about [MIT](https://choosealicense.com/licenses/mit/) license
